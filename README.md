@@ -1,0 +1,1 @@
+This program takes the generation information written by auto1111 and updates darktable xmp files with it.

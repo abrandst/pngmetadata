@@ -1,0 +1,6 @@
+test.png
+test.xmp
+out.xmp
+index*
+dist/**
+node_modules

@@ -1,0 +1,24 @@
+{
+  "name": "pngmetadata",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts",
+    "generate-bin": "pkg dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "png-chunks-extract": "^1.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.34"
+  }
+}
